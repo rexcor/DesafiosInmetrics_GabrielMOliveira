@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+group :test do
+  gem "capybara", "3.14"
+  gem "cucumber", "3.1.2"
+  gem "HTTParty", "0.18.0"
+end
