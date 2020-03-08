@@ -2,4 +2,4 @@
 
 - Para a execução das features basta digitar "cucumber"
 
-Autor:Gabriel Moura de Oliveira
+Autor: Gabriel Moura de Oliveira
